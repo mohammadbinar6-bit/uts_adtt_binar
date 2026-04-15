@@ -20,9 +20,9 @@ Proyek ini menganalisis **1.818 komentar TikTok** terkait kasus viral pelecehan 
 ## 📁 Struktur File
 
 ```
-├── UTS_ADTT_Binar.ipynb          # Notebook utama (pipeline lengkap)
+├── UTS_ADTT.ipynb          # Notebook utama (pipeline lengkap)
 ├── Tiktok_Crawled_Code__API_Based_.ipynb  # Crawling data TikTok via API
-├── Template_Laporan_UTS.pdf     # Laporan akademik (format paper)
+├── Laporan_UTS.pdf     # Laporan akademik (format paper)
 ├── comments.csv                  # Dataset hasil crawling (1.818 komentar)
 └── README.md
 ```
@@ -186,7 +186,6 @@ Laporan akademik tersedia di `Template_Laporan_UTS.docx` dalam format dua kolom 
 ## 👤 Author
 
 **Muhammad Binar Raffi Lazuardi**  
-NIM: 2306228005 · Kelas A  
 Program Studi Statistika, Universitas Indonesia  
 muhammad.binar@ui.ac.id
 
